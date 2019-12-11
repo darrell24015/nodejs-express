@@ -3,7 +3,9 @@
 ExpressJS Sample Application
 
 # Developer Workspace
-[![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=r8et9w6vohmqvro8)
+Hosted on [https://che.openshift.io](https://che.openshift.io/)
+
+This is a new NodeJS Express sample project.
 
 # Stack to use
 
