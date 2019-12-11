@@ -1,6 +1,6 @@
 # web-nodejs-sample
 
-ExpressJS Sample Application
+NodeJS Express Sample Application
 
 # Developer Workspace
 Hosted on [https://che.openshift.io](https://che.openshift.io/)
